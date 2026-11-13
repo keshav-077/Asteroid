@@ -1,0 +1,27 @@
+{
+  "name": "Asteroid",
+  "version": "0.0.1",
+  "description": "Asteroid - Orchestrate 50+ AI agents to automate complex research, analysis, and workflows with intelligent multi-agent collaboration",
+  "author": {
+    "name": "Keshav",
+    "email": "contact@keshav.dev",
+    "url": "https://github.com/keshav"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keshav/Asteroid"
+  },
+  "bugs": {
+    "url": "https://github.com/keshav/Asteroid/issues"
+  },
+  "homepage": "https://github.com/keshav/Asteroid#readme",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "eslint-config-next": "^16.2.1",
+    "next": "^16.2.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
+
+
